@@ -1,2 +1,2 @@
-# andela
-yummy recipes app
+# Tribute page
+Tribute page dedicated to Mother Teresa
